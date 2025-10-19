@@ -1,0 +1,32 @@
+sewa-development-trust-sindh-website/
+│
+├── index.html              # main structure
+├── css/
+│   └── style.css           # all CSS styles
+├── js/
+│   └── script.js           # all JavaScript functionality
+├── assets/                 # images, icons, logos
+│   ├── sdts-logo.png
+│   ├── hero-image1.jpg
+│   ├── hero-image2.jpg
+│   ├── hero-image3.jpg
+│   ├── hero-image4.jpg
+│   ├── hero-image5.jpg
+│   ├── hero-image6.jpg
+│   ├── project-education.jpg
+│   ├── project-women-rights.jpg
+│   ├── project-child-marriage.jpg
+│   ├── project-shelter.jpg
+│   ├── project-climate.jpg
+│   ├── project-citizens.jpg
+│   ├── news-youth-climate.jpg
+│   ├── news-advocacy-campaign.jpg
+│   ├── news-women-workers.jpg
+│   ├── news-lawyers-training.jpg
+│   ├── partner-un.png
+│   ├── partner-usaid.png
+│   ├── partner-british-council.png
+│   ├── partner-iom.png
+│   ├── partner-aurat.png
+│   └── partner-safeworld.png
+└── README.md               # project description
